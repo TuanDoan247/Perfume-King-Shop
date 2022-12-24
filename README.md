@@ -46,6 +46,7 @@ The idea behind the project was to form a complete management program for the on
 
 <h2 align="center">📑 Main feature 📑</h2>
 &nbsp;
+
 <div>
 	<ul>
 		<li>Log in / sign up</li>
@@ -62,11 +63,16 @@ The idea behind the project was to form a complete management program for the on
 &nbsp;
 
 <h2 align="center">🔥 Preview 🔥</h2>
+&nbsp;
 
+<div>
+	
+</div>
+&nbsp;
 
 <h2>Contribute</h2>
 
-Copyright (c) 2021, Khuong Hung
+Copyright (c) 2021, Đoàn Văn Tuấn (Lê-Bean)
 
 
 
