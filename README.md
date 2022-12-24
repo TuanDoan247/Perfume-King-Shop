@@ -64,7 +64,9 @@ The idea behind the project was to form a complete management program for the on
 <h2 align="center">🔥 Preview 🔥</h2>
 
 
+<h2>Contribute</h2>
 
+Copyright (c) 2021, Khuong Hung
 
 
 
