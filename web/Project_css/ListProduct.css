@@ -1,0 +1,47 @@
+#Product{
+    display: block;
+    height: 400px;
+    width: 270px;
+    margin-bottom: 20px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    border-radius: 5px;
+}
+
+#Product:not(:last-child){
+    margin-right: 15px;
+}
+
+#Product > a > img{
+    width: 90%;
+    height: 65%;
+    margin: 0 0 0 12px;
+}
+
+#Product > #add{
+    margin-right: 10px;
+    float: right;
+}
+
+#Pname{
+    padding-top: 5px;
+    display: block;
+    width: 100%;
+    height: 90px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+#price{
+    font-style: italic;
+    font-size: 15px;
+    font-weight: bold;
+    color: red;
+    font-family: cursive;
+    float: left;
+    width: 60%;
+}
+
+
