@@ -65,7 +65,39 @@ The idea behind the project was to form a complete management program for the on
 <h2 align="center">🔥 Preview 🔥</h2>
 &nbsp;
 
+<h3>Admin View</h3>
+&nbsp;
 <div>
+	<img src="Image preview/admin view/Screenshot 2022-12-25 004400.png"/>
+	&nbsp;
+	<img src="Image preview/admin view/Screenshot 2022-12-25 004454.png"/>
+	&nbsp;
+	<img src="Image preview/admin view/Screenshot 2022-12-25 004514.png"/>
+	
+</div>
+&nbsp;
+
+<h3>User View</h3>
+&nbsp;
+<div>
+	<img src="Image preview/user view/Screenshot 2022-12-25 003506.png"/>
+	&nbsp;
+	<img src="Image preview/user view/Screenshot 2022-12-25 003717.png"/>
+	&nbsp;
+	<img src="Image preview/user view/Screenshot 2022-12-25 003750.png"/>
+	&nbsp;
+	<img src="Image preview/user view/Screenshot 2022-12-25 003815.png"/>
+	&nbsp;
+	<img src="Image preview/user view/Screenshot 2022-12-25 004207.png"/>
+	&nbsp;
+	<img src="Image preview/user view/Screenshot 2022-12-25 004243.png"/>
+	&nbsp;
+	<img src="Image preview/user view/Screenshot 2022-12-25 004656.png"/>
+	&nbsp;
+	<img src="Image preview/user view/z3986231764168_caea9432bf7e674673e0a8d0b3ac8914.jpg"/>
+	&nbsp;
+	<img src="Image preview/user view/z3986232434679_dec2e2610bf1f98033fe231cf22fa46e.jpg"/>
+	&nbsp;
 	
 </div>
 &nbsp;
